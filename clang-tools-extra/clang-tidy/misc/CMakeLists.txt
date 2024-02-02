@@ -27,6 +27,7 @@ add_clang_library(clangTidyMiscModule
   MisleadingBidirectional.cpp
   MisleadingIdentifier.cpp
   MisplacedConstCheck.cpp
+  NoAssignIntToPtrCheck.cpp
   NewDeleteOverloadsCheck.cpp
   NoRecursionCheck.cpp
   NonCopyableObjects.cpp

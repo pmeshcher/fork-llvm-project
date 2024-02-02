@@ -100,6 +100,11 @@ Improvements to clang-tidy
 New checks
 ^^^^^^^^^^
 
+- New :doc:`misc-no-assign-int-to-ptr
+  <clang-tidy/checks/misc/no-assign-int-to-ptr>` check.
+
+  FIXME: add release notes.
+
 New check aliases
 ^^^^^^^^^^^^^^^^^
 
