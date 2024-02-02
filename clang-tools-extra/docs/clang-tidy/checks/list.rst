@@ -253,6 +253,7 @@ Clang-Tidy Checks
    :doc:`misc-misleading-identifier <misc/misleading-identifier>`,
    :doc:`misc-misplaced-const <misc/misplaced-const>`,
    :doc:`misc-new-delete-overloads <misc/new-delete-overloads>`,
+   :doc:`misc-no-assign-int-to-ptr <misc/no-assign-int-to-ptr>`,
    :doc:`misc-no-recursion <misc/no-recursion>`,
    :doc:`misc-non-copyable-objects <misc/non-copyable-objects>`,
    :doc:`misc-non-private-member-variables-in-classes <misc/non-private-member-variables-in-classes>`,
